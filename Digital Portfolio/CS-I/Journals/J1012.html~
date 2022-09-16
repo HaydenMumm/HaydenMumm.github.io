@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CS-I Journal J1002</title>
+  </head>
+
+  <body>
+    <h1>CS-I Journal J1012: Alternative Base Addition</h1>
+    <p>Name: Hayden Mumm</p>
+    <p>Date: 9-Sep-2022</p>
+    <p>I received assistance from: </p>
+    <p>I assisted: Nobody</p>
+    <h2>Section 1</h2>
+    <h3>Question 1: Describe the general process for executing addition, regardless of base..</h3>
+    <p>You add the two numbers in the same value positition together, and if the value of the two numbers are over 10, you carry  one to the value position to the left.</p>
+    <h2>Section 2</h2>
+    <h3>Question 1: Describe the general process for executing a dition, regardless of base..
+      <p>That no digit can have a value over 8, so you have to carry when a number goes over seven, instead of when a number is over 9.</p>
+      <h2>Section 3</h2>
+      <h3>Question 1: What special factors need to be considered when executing addition with hexadecimal numbers?..
+	<p> A special factor that needs to be considered while using the hexadecimal system, is that you can't have numbers over 10, but the positional value goes over 10, causing us to have to use letters while using the hexadecimal system.</p>
+	<h2>Section 4</h2>
+	<h3>Question 1: What special factors need to be considered when executing addition with binary numbers?..
+	  <p> A special factor that needs to be considered while using the binary system is that we are only able to use the numbers 0 and 1. This means that if we have a number over 1, we have to round and carry to the next position.</p>
+ body {
+	  background-color: lightblue;
+}
+	  What did I learn? What is the big idea?
+	  <br>
+	  <br>
+	  The big idea of this lesson is that we need to know how to do hexadecimal, octal, and binary math. This is important, because it saves space on the computer, causing the computer not to need as much storage.
+	  <br>
+	  <br>
+	  What challenges did I encounter?
+	  <br>
+	  <br>

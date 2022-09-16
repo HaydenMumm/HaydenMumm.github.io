@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {
+          background-color: lightblue;      }
+    </style>
+  </head>
+  <body>
+  </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <h1>Hello, World!</h1>
+    Name: Hayden Mumm<br>
+
+    Journal: J1002<br>
+    Date: 18-Aug-2022<br>
+
+    I received Asisstance from: My mother and Rohit<br>
+    I assisted: no one<br>
+    1.1 Two services I can think of that use a client server model are the world wide web and email. <br>
+    2.1 I think this is important, because it lets everyone have whatever directory name they want, no matter who has used the name. I also think this\
+    ability is very important, because some projects have to have very specific ile naes, so it lets these people ha\
+    ve the same specific file names<br>
+    3.1 Why do you think the home directory has a special symbol to represent it? I feel the new directory has a special symbol to represent it, becau\
+    se it lets the user know whether or not the directory is new. <br>
+    4.1 Did the prompt change? If so, how? Why is this useful?
+    The prompt did change. This is useful, because it shows you what directory you are in. <br>
+    5.1 What happens each time you press the ↑?
+    What happens each time you press the ↓? Both of these either show you your newest command or oldest command.
+    6.1 Was "Hello, World!" printed to the screen as before? If not, why not? What do you think happened to the text? It was printed to the text, beca\
+    use it was echoed. <br>
+    7.1 How does the ls command differ from the tree command? The LS command is different, because it only shows what is inside the directory. <br>
+    7.2 How do you choose to use one over the other?
+    By typing in "tree" or "ls" <br>
+    8.1 What do you think the argument to sleep specifies?
+    For a certain argument to not function for a period of time. <br>
+    8.2 I am, because the sleep argument does what I thought it would. <br>
+    9.1 How is the behavior different from what you expected?
+    The behavior is different from what I expected, because the command did not function as I anticipated. <br>
+    9.2 What do you think it means to run a job in the background?
+    I think running a job in the background means to not run it on the main screen, instead running it in the background.
+    9.3 What do you think the number displayed in brackets specifies?
+    I am not certain on what the number in the background specifies. <br>
+    10.1 What do you observe as you execute the jobs command?
+    I observe that all of my current jobs pop up.
+    10.2 How do you explain your observations?
+    I feel that all the jobs showing up are the jobs that I am currently running.
+    What did I learn? What is the "big idea"? I feel the big idea of this lesson was to teach us the main ideas of just how important it is to underst\
+    and the backbones of the Tabby, so down the line we can really understand how to use the service correctly.
+    What challenges did I encounter? One of the main challenges I encountered was understanding exactly what everything meant. Some of these commands \
+    and abilities of Tabby were basic and simple, but others were slightly harder to understand.
+    How could this experience be improved? I don't feel this experience could be improved much. I feel that this was a great tutorial for a beginner l\
+    ike me to understand how to use Tabby and overall helped me learn how to use Coder merlin as well.
+    Free Reflection: How has what I've learned affected my thinking? I feel that what I have learned has affected my thinking, because it helped me fe\
+    el that I will be able to understand the concepts of this class, and do better than I originaly thought I would.\
+    At first, I fealt that this class was going to be my hardest class of the year, and I would have a lot of studying and a lot of sleepless nights. \
+    However, I learned how to go through Coder merlin and Tabby, helping me feel better about everything.
+    Free Reflection: Learning about Tabby helped me understand how to use the software. t first I was not quite sure how to use the software, however \
+    by the ened I was able to fully understand how to navigate Tabby.
+    
